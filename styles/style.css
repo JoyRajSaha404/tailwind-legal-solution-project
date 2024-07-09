@@ -1,0 +1,20 @@
+.project-background{
+    background-color: #B68C5A;
+}
+.fa-solid{
+    margin-left:16px;
+}
+.banner-bg-img{
+    background-image: url(/images/banner.png);
+    background-size:cover;
+}
+.input-bg-color{
+    background-color: #f6f5f4;
+}
+
+@media screen and (max-width:576px) {
+    .banner-bg-img{
+        /* display: none; */
+    }
+    
+}
